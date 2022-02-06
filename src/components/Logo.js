@@ -14,7 +14,7 @@ class Logo extends Component {
 
         return(
             <div style={styles.logo}>
-                Shop
+                App de compras creado por Kevin Yanes
             </div>
 
         )
