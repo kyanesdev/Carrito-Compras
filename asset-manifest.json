@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Carrito-Compras/static/css/main.e6c13ad2.css",
+    "main.js": "/Carrito-Compras/static/js/main.03f94443.js",
+    "static/js/787.07b52f2f.chunk.js": "/Carrito-Compras/static/js/787.07b52f2f.chunk.js",
+    "static/media/arbejas.jpg": "/Carrito-Compras/static/media/arbejas.02eb6bcd49ecfb2ade17.jpg",
+    "static/media/lechuga.jpg": "/Carrito-Compras/static/media/lechuga.65345de1a92203421e4c.jpg",
+    "static/media/tomate.jpg": "/Carrito-Compras/static/media/tomate.de015811b565e31600ef.jpg",
+    "index.html": "/Carrito-Compras/index.html",
+    "main.e6c13ad2.css.map": "/Carrito-Compras/static/css/main.e6c13ad2.css.map",
+    "main.03f94443.js.map": "/Carrito-Compras/static/js/main.03f94443.js.map",
+    "787.07b52f2f.chunk.js.map": "/Carrito-Compras/static/js/787.07b52f2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.03f94443.js"
+  ]
+}
