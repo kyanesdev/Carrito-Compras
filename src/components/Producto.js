@@ -24,7 +24,7 @@ class Producto extends Component {
          <div style={styles.producto}>
              <img style={styles.img} alt={producto.name} src={producto.img}/>
              <h1>{producto.name}</h1>
-             <p>{producto.price}</p>
+             <p>$ {producto.price}</p>
              <Button onClick={() => agregarAlCarro(producto)}>
                  Agregar al carro
              </Button>
